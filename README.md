@@ -14,7 +14,3 @@ Skills: REACT / JS / HTML / CSS/C/C++ /JAVA/ PYTHON/R/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthuAjay)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanthuAjay&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/AnanthuAjay)  
-
