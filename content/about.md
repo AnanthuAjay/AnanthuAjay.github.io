@@ -11,5 +11,5 @@ Hi, I'm **Ananthu Ajay** 3rd year **B.Tech Information Technology** Student and 
   ## My Mission
   > I Learned Most of the Stuff from Communties, I'm Actively Looking to Contribute back
 
-Please Checkout [iqbalpb.com](https://iqbalpb.com) for more Details..
+Please Checkout [iqbalpb.com](https://github.com/AnanthuAjay) for more Details..
 
